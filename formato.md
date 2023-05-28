@@ -1,6 +1,6 @@
 # 
 
-**Limite de tempo do código: 1000ms**
+**Limite de tempo do código: 2000ms**
 
 
 ## Input:
