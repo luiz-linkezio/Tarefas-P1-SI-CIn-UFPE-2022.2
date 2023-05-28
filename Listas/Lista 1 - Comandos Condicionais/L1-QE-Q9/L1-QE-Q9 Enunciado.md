@@ -2,8 +2,6 @@
 
 **Limite de tempo do código: 2000ms**
 
-![Levantamento da taça](<iframe src="https://giphy.com/embed/QBMrpkBiaOX90n3rbD" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fifa-trophy-cafu-QBMrpkBiaOX90n3rbD">via GIPHY</a></p>)
-
 Depois de conseguir avançar na fase de grupos, a seleção de Tite chega como uma forte candidata a vencer o torneio, mas Tite não quis esperar o final da copa para saber se o brasil ia ser campeão ou não, então ele decidiu pedir para você fazer uma simulação com o mata-mata da seleção brasileira para ver o que ia acontecer.
 
 Ele pediu para fazer de um jeito que o fator Favoritismo, sendo ele um numero inteiro, fosse ser algo muito presente na sua simulação.
