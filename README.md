@@ -4,7 +4,7 @@ Tarefas da cadeira Programação 1 (P1) do curso Sistemas de Informação (SI) d
 
 As atividades que valem pontuação na cadeira são as listas deste repositório e um projeto final, confira o projeto neste outro repositório: https://github.com/luiz-linkezio/projeto-p1-equipe7
 
-No diretório `Listas` existe várias pastas contendo as tarefas de cada lista, cada lista tem um tema específico, cada pasta de cada lista contém uma pasta para cada atividade, essas pastas de atividade contém um arquivo **.md** mostrando o enunciado da questão e um arquivo **.py** com a solução do problema em formato de código de python feita por mim.
+No diretório `Listas` existem várias pastas contendo as tarefas de cada lista, cada lista tem um tema específico, cada pasta de cada lista contém uma pasta para cada atividade, essas pastas de atividade contém um arquivo **.md** mostrando o enunciado da questão e um arquivo **.py** com a solução do problema em formato de código de python feita por mim.
 
 A primeira lista de atividades foi a Lista de Treinamento, depois a Lista 1, em seguida a Lista 2, e assim sucessivamente até a lista 6.
 
