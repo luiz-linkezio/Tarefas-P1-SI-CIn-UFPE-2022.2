@@ -34,29 +34,41 @@ A linha única de saída é composta pelo número máximo de blocos que precisam
 
 ## Exemplos:
 
-```
+### Caso 1:
+
 Input:
+```
 2
 2
+```
 
 Output:
+```
 8
 ```
 
-```
+### Caso 2:
+
 Input:
+```
 10
 10
+```
 
 Output:
+```
 1000
 ```
 
-```
+### Caso 3:
+
 Input:
+```
 5
 10
+```
 
 Output:
+```
 250
 ```
