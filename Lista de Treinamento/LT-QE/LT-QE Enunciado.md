@@ -32,26 +32,38 @@ A linha única de saída é composta pelo nome de quem fez a oferta que foi acei
 
 ## Exemplos:
 
-```
+### Caso 1:
+
 Input:
+```
 20
+```
 
 Output:
+```
 Luiz
 ```
 
-```
+### Caso 2:
+
 Input:
+```
 120
+```
 
 Output:
+```
 Nenhum
 ```
 
-```
+### Caso 3:
+
 Input:
+```
 5
+```
 
 Output:
+```
 Arthur
 ```
