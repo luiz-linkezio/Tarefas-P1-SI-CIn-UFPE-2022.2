@@ -48,34 +48,46 @@ As linhas de saída são compostas por um texto seguido, seguido pela distância
 
 ## Exemplos:
 
-```
+### Caso 1:
+
 Input:
+```
 15
 39
+```
 
 Output:
+```
 Distancia para Hogsmeade: 181.99
 Distancia para Kakariko: 41.79
 Distancia para Solitude: 435.33
 ```
 
-```
+### Caso 2:
+
 Input:
+```
 10
 10
+```
 
 Output:
+```
 Distancia para Hogsmeade: 211.37
 Distancia para Kakariko: 14.14
 Distancia para Solitude: 464.56
 ```
 
-```
+### Caso 3:
+
 Input:
+```
 56
 110
+```
 
 Output:
+```
 Distancia para Hogsmeade: 112.18
 Distancia para Kakariko: 123.43
 Distancia para Solitude: 356.05
