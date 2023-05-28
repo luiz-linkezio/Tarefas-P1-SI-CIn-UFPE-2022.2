@@ -40,29 +40,41 @@ A linha única de saída é composta pela quantidade de ticks gastas construindo
 
 ## Exemplos:
 
-```
+### Caso 1:
+
 Input:
+```
 2
 100
+```
 
 Output:
+```
 2160
 ```
 
-```
+### Caso 2:
+
 Input:
+```
 50
 1000
+```
 
 Output:
+```
 5400
 ```
 
-```
+### Caso 3:
+
 Input:
+```
 1
 10
+```
 
 Output:
+```
 10800
 ```
