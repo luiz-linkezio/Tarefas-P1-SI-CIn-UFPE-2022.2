@@ -43,29 +43,41 @@ A linha única de saída é composta pelo nickname que vai ser usado pelo usuár
 
 ## Exemplos:
 
-```
+### Caso 1:
+
 Input:
+```
 Leticia
 Barros
+```
 
 Output:
+```
 LeticiaBarros
 ```
 
-```
+### Caso 2:
+
 Input:
+```
 Melissa
 Carvalho
+```
 
 Output:
+```
 MelissaCarvalho
 ```
 
-```
+### Caso 3:
+
 Input:
+```
 Breno
 Almeida
+```
 
 Output:
+```
 BrenoAlmeida
 ```
