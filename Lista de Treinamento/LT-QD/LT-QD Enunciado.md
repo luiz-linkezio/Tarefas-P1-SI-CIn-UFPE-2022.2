@@ -45,35 +45,47 @@ M
 
 ## Exemplos:
 
-```
+### Caso 1:
+
 Input:
+```
 1
 2
 3
 1
+```
 
 Output:
+```
 3
 ```
 
-```
+### Caso 2:
+
 Input:
+```
 5
 5
 5
 5
+```
 
 Output:
+```
 25
 ```
 
-```
+### Caso 3:
+
 Input:
+```
 1
 10
 100
 2
+```
 
 Output:
+```
 200
 ```
