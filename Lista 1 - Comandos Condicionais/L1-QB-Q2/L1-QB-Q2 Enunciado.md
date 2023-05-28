@@ -13,26 +13,26 @@ Seu trabalho é informar o resultado do jogo que Pedro apostou e os ganhos que e
 Você receberá o nome das seleções que vão disputar a partida, a primeira seleção será sempre a que Pedro vai apostar:
 
 ```
-* seleção1 (String)
-* seleção2 (String)
+seleção1 (String)
+seleção2 (String)
 ```
 **OBS.:** no caso de nome de países que tenha espaços, será colocado um traço para conectar as palavras, e não sera considerado acentos, por exemplo: “Coreia-do-Sul”, “Arabia-Saudita”
 
 Você receberá o valor apostado no jogo:
 
 ```
-* aposta (Integer)
+aposta (Integer)
 ```
 Você receberá a probabilidade “X” de vitória do país que Pedro vai apostar, tal que **0 < X < 1**:
 
 ```
-* probabilidade (Float)
+probabilidade (Float)
 ```
 
 Você também receberá se você acertou na aposta (Ganhou ou Perdeu):
 
 ```
-* resultado (String)
+resultado (String)
 ```
 
 Ao todo, são 5 variáveis para serem armazenadas.
@@ -66,9 +66,11 @@ Parabéns, você apostou R${aposta} e recebeu R${valor} nessa aposta
 ```
 
 Caso a probabilidade seja menor ou igual que 0.3 e maior que 0.2:
- Uau! que jogo foi esse?? {selecao1} surpreendeu a todos nós…
 
-  Parabéns, você apostou R${aposta} e recebeu R${valor} nessa aposta
+```
+Uau! que jogo foi esse?? {selecao1} surpreendeu a todos nós…
+Parabéns, você apostou R${aposta} e recebeu R${valor} nessa aposta
+```
 
 Caso a probabilidade seja menor ou igual que 0.2 e maior que 0.1:
 
@@ -87,9 +89,8 @@ Parabéns, você apostou R${aposta} e recebeu R${valor} nessa aposta
 Caso você erre o palpite:
 
 ```
- Pedro, infelizmente você está no fundo do poço, se endividou completamente e não temos o que fazer…
-
-  Você poderia ter ganhado R${valor}, mas perdeu R${aposta}
+Pedro, infelizmente você está no fundo do poço, se endividou completamente e não temos o que fazer…
+Você poderia ter ganhado R${valor}, mas perdeu R${aposta}
 ```
 
 ## Exemplos:
