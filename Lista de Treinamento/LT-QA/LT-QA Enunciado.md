@@ -34,29 +34,40 @@ As linhas de saída correspondem ao número de packs ferros que devem ser distri
 
 ## Exemplos:
 
-```
-Input:
-20
+### Caso 1
 
+Input:
+```
+20
+```
 Output:
+```
 6
 2
 ```
 
-```
+### Caso 2
+
 Input:
+```
 3
+```
 
 Output:
+```
 1
 0
 ```
 
-```
+### Caso 3
+
 Input:
+```
 10
+```
 
 Output:
+```
 3
 1
 ```
