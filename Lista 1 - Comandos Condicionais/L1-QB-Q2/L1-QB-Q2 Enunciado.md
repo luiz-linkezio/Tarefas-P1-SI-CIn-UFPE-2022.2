@@ -95,15 +95,17 @@ Você poderia ter ganhado R${valor}, mas perdeu R${aposta}
 
 ## Exemplos:
 
-```
+### Caso 1:
 Input:
+```
 Arabia-Saudita
 Argentina
 3500
 0.06
 Ganhou
-
+```
 Output:
+```
 PEDROOOOO, você tá rico!! ninguém, absolutamente ninguém apostou na Arabia-Saudita, somente você!
 Parabéns, você apostou R$3500 e recebeu R$71260 nessa aposta
 ```
