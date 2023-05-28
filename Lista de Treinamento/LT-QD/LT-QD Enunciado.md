@@ -1,4 +1,4 @@
-# 
+# Competição
 
 **Limite de tempo do código: 1000ms**
 
