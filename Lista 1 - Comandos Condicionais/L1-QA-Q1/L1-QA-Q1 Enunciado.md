@@ -43,18 +43,23 @@ Caso o nome informado não seja de nenhum jogador convocado, você deverá respo
 
 ## Exemplos:
 
-```
+### Caso 1
 Input:
+```
 Alisson
+```
 
 Output:
+```
 Alisson foi convocado e jogará como goleiro!
 ```
 
-```
+### Caso 2
 Input:
+```
 Vini Jr.
-
+```
 Output:
+```
 Vini Jr. foi convocado e jogará como atacante!
 ```
