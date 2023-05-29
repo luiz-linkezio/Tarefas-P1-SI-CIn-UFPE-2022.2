@@ -12,7 +12,7 @@ A primeira lista de atividades foi a Lista de Treinamento, depois a Lista 1, em 
 
 No diretório `Listas` existem várias pastas contendo as tarefas de cada lista, cada lista tem um tema específico, cada pasta de cada lista contém uma pasta para cada tarefa, essas pastas de tarefa contém um arquivo `.md` mostrando o enunciado da questão e um arquivo `.py` com a solução do problema em formato de código de python feita por mim.
 
-**OBS:** Os enunciados são da plataforma **Dikastis**, e eu tive que adaptar eles para coloca-los em arquivos `.md`, além disso, alguns enunciados além de adaptados estão modificados para o melhor entendimento do leitor(avisarei no enunciado caso ele tenha sido modificado), porém, independete do enunciado ter sido adaptado ou modificado, o enunciado vai conter tudo que é necessário para o entendimento original dele.
+**OBS:** Os enunciados são da plataforma **Dikastis**, e eu tive que adaptar eles para representa-los em arquivos `.md`, além disso, alguns enunciados além de adaptados estão modificados para o melhor entendimento do leitor(avisarei no enunciado caso ele tenha sido modificado), porém, independete do enunciado ter sido adaptado ou modificado, o enunciado vai conter tudo que é necessário para o entendimento original dele.
 
 ## Ementa da Cadeira
 
