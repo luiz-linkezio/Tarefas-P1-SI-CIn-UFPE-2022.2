@@ -4,11 +4,13 @@ Tasks for the Programming 1 (P1) course of the Information Systems (SI) program 
 
 The scoring activities for the course include the lists in this repository and a final project. Check the project in this other repository: https://github.com/luiz-linkezio/projeto-p1-equipe7
 
-In the `Listas` directory, there are several folders containing the tasks for each list. Each list has a specific theme, and each folder within each list contains a folder for each activity. These activity folders contain an `.md` file showing the question statement and a `.py` file with the solution to the problem in Python code format, which was done by me.
-
 The first set of activities was the Training List, followed by List 1, then List 2, and so on up to List 6.
 
 **Note:** There was an extra list to help improve the scores of those who didn't achieve the maximum grade in the previous lists, but I managed to get the maximum grade, so I didn't do this extra list. Additionally, there was a final exam list, but I didn't need to take it since I passed by average.
+
+## File Organization
+
+In the `Listas` directory, there are several folders containing the tasks for each list. Each list has a specific theme, and each folder within each list contains a folder for each task. These task folders contain an `.md` file showing the question statement and a `.py` file with the solution to the problem in Python code format, which was done by me.
 
 ## Course Syllabus
 
