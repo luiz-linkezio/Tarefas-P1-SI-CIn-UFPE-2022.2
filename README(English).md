@@ -12,6 +12,8 @@ The first set of activities was the Training List, followed by List 1, then List
 
 In the `Listas` directory, there are several folders containing the tasks for each list. Each list has a specific theme, and each folder within each list contains a folder for each task. These task folders contain an `.md` file showing the question statement and a `.py` file with the solution to the problem in Python code format, which was done by me.
 
+**Note:** The statements are from the Dikastis platform, and I had to adapt them to represent them in .md files. Additionally, some statements, besides being adapted, have been modified for better reader understanding (I will notify in the statement if it has been modified). However, regardless of whether the statement has been adapted or modified, it will contain everything necessary for its original understanding.
+
 ## Course Syllabus
 
 Basic concepts of algorithms; basic concepts of programming languages; basic concepts of object-oriented programming and software quality; programming environment; control structures and composite data structures; files; basic concepts of data structures; implementation design.
