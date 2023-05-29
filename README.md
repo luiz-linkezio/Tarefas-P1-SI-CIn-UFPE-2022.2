@@ -6,7 +6,7 @@ As atividades que valem pontuação na cadeira são as listas deste repositório
 
 A primeira lista de atividades foi a Lista de Treinamento, depois a Lista 1, em seguida a Lista 2, e assim sucessivamente até a lista 6.
 
-**OBS:** Houve uma lista extra pra ajudar na pontuação de quem não tinha conseguido nota máxima nas outras listas, mas eu consegui, então não fiz esta lista extra. Além disso, houve uma lista como prova final, também não precisei fazer porque passei por média.
+**OBS:** Houve uma lista extra pra ajudar na pontuação de quem não tinha conseguido nota máxima nas outras listas, mas eu consegui a nota máxima, então não fiz esta lista extra. Além disso, houve uma lista como prova final, também não precisei fazer porque passei por média.
 
 ## Organização dos Arquivos
 
