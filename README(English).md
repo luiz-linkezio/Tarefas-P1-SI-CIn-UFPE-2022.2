@@ -23,6 +23,7 @@ The tasks in this repository are tasks that should be solved using the **Python*
 - Students completed one list at a time and had a deadline to submit the activities of each list. The deadline varied depending on the list, but the longest deadline established for the course was 1 month.
 - Each list had a minimum and maximum score from 0 to 10, respectively, and each question was worth the same score. The lists accounted for 70% of the course grade, and the final project accounted for 30%.
 - Students were not allowed to use any content from future lists, meaning it was not permitted to use Tuples (List 6) in the tasks of List 1.
+- Some questions have their own rules, such as requiring the use of a specific function, for example.
 - Students and tasks were monitored to prevent any copying of answers from other students.
 
 ## My Grade in the Course:

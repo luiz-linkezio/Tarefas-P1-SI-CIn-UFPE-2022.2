@@ -1,6 +1,6 @@
 # Tarefas-P1-SI-CIN-UFPE-2022.2
 
-Tarefas da cadeira Programação 1 (P1) do curso Sistemas de Informação (SI) do Centro de Informática (CIN) da Universidade Federal de Pernambuco (UFPE), cadeira realizada por mim no final do segundo semestre de 2022 e primeiro semestre de 2023. 
+Tarefas da cadeira Programação 1 (P1) do curso Sistemas de Informação (SI) do Centro de Informática (CIN) da Universidade Federal de Pernambuco (UFPE), cadeira cursada por mim no final do segundo semestre de 2022 e primeiro semestre de 2023. 
 
 As atividades que valem pontuação na cadeira são as listas deste repositório e um projeto final, confira o projeto neste outro repositório: https://github.com/luiz-linkezio/projeto-p1-equipe7
 
@@ -23,6 +23,7 @@ As tarefas deste repositório são tarefas que devem ser solucionadas utilizando
 - Os alunos faziam uma lista por vez e tinham um prazo para enviar as atividades da lista, o prazo variou dependendo da lista, mas o maior prazo estabelicido na cadeira foi 1 mês.
 - Cada lista tinha pontuação mínima e máxima de 0 a 10 respectivamente, e cada questão valia a mesma pontuação. As listas valiam 70% da nota da cadeira, e o projeto final valia 30%.
 - Os alunos eram proibidos de usar qualquer conteúdo das listas futuras, ou seja, não era permitido usar Tuplas(lista 6) nas tarefas da lista 1.
+- Algumas questões tem regras próprias, como exigir o uso de uma função específica, por exemplo.
 - Os alunos e as tarefas eram monitorados para evitar que algum aluno copiasse respostas de outros alunos.
 
 ## Minha nota na cadeira:
