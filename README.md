@@ -8,7 +8,7 @@ A primeira lista de atividades foi a Lista de Treinamento, depois a Lista 1, em 
 
 **OBS:** Houve uma lista extra pra ajudar na pontuação de quem não tinha conseguido nota máxima nas outras listas, mas eu consegui, então não fiz esta lista extra. Além disso, houve uma lista como prova final, também não precisei fazer porque passei por média.
 
-## Organização dos arquivos
+## Organização dos Arquivos
 
 No diretório `Listas` existem várias pastas contendo as tarefas de cada lista, cada lista tem um tema específico, cada pasta de cada lista contém uma pasta para cada tarefa, essas pastas de tarefa contém um arquivo `.md` mostrando o enunciado da questão e um arquivo `.py` com a solução do problema em formato de código de python feita por mim.
 
