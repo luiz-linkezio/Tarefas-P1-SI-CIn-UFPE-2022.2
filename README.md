@@ -1,6 +1,6 @@
 # Tarefas-P1-SI-CIN-UFPE-2022.2
 
-Tarefas da cadeira Programação 1 (P1) do curso Sistemas de Informação (SI) do Centro de Informática (CIN) da Universidade Federal de Pernambuco (UFPE), cadeira realizada por mim no final do segundo semestre de 2022 e primeiro semestre de 2023. 
+Tarefas da cadeira Programação 1 (P1) do curso Sistemas de Informação (SI) do Centro de Informática (CIN) da Universidade Federal de Pernambuco (UFPE), cadeira cursada por mim no final do segundo semestre de 2022 e primeiro semestre de 2023. 
 
 As atividades que valem pontuação na cadeira são as listas deste repositório e um projeto final, confira o projeto neste outro repositório: https://github.com/luiz-linkezio/projeto-p1-equipe7
 
