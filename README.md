@@ -23,7 +23,7 @@ As tarefas deste repositório são tarefas que devem ser solucionadas utilizando
 - Os alunos faziam uma lista por vez e tinham um prazo para enviar as atividades da lista, o prazo variou dependendo da lista, mas o maior prazo estabelicido na cadeira foi 1 mês.
 - Cada lista tinha pontuação mínima e máxima de 0 a 10 respectivamente, e cada questão valia a mesma pontuação. As listas valiam 70% da nota da cadeira, e o projeto final valia 30%.
 - Os alunos eram proibidos de usar qualquer conteúdo das listas futuras, ou seja, não era permitido usar Tuplas(lista 6) nas tarefas da lista 1.
-- Algumas questões tem restrições próprias, como exigir o uso de uma função específica, por exemplo.
+- Algumas questões tem regras próprias, como exigir o uso de uma função específica, por exemplo.
 - Os alunos e as tarefas eram monitorados para evitar que algum aluno copiasse respostas de outros alunos.
 
 ## Minha nota na cadeira:
