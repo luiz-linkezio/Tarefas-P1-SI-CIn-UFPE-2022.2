@@ -31,6 +31,7 @@ The tasks were hosted on a platform called [Dikastis](https://dikastis.com.br), 
 - Students were not allowed to use any content from future lists, meaning it was not permitted to use Tuples (List 6) in the tasks of List 1.
 - Some questions have their own rules, such as requiring the use of a specific function, for example.
 - Students and tasks were monitored to prevent any copying of answers from other students.
+- The tasks have something called "limite de tempo do código" which is the maximum time the code can take to run completely. Each task has its time limit described in the statement.
 
 ## My Grade in the Course:
 ### I achieved the maximum grade in the course (ranging from 0 to 10).
