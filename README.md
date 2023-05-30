@@ -20,11 +20,11 @@ Conceitos básicos de algoritmos; conceitos básicos de linguagens de programaç
 
 ## Proposta das Tarefas
 
-As tarefas deste repositório são tarefas que devem ser solucionadas utilizando a linguagem de programação **Python**, estas atividades tem como objetivo inserir o anulo de forma introdutória nos conceitos e lógicas de programação.
+As tarefas deste repositório são tarefas que devem ser solucionadas utilizando a linguagem de programação [Python](https://www.python.org), estas atividades tem como objetivo inserir o anulo de forma introdutória nos conceitos e lógicas de programação.
 
 As tarefas foram hospedadas em uma plataforma chamada [Dikastis](https://dikastis.com.br), onde os alunos tinham uma conta com acesso para ver os enunciados e testar os códigos para resolver os problemas, a entrega e verificação das atividades também eram feitas nesta plataforma.
 
-As tarefas são no seguinte formato: Existe um problema no enunciado, o aluno tem que criar um código que vai receber uma ou mais entradas(inputs) e vai gerar uma ou mais saídas(outputs). O aluno deve colocar o código no [Dikastis](https://dikastis.com.br) na página do enunciado da respectiva tarefa, caso o código seja aprovado, o aluno completa a tarefa de recebe a pontuação dela.
+As tarefas são no seguinte formato: Existe um problema no enunciado, o aluno tem que criar um código em [Python](https://www.python.org) que vai receber uma ou mais entradas(inputs) e vai gerar uma ou mais saídas(outputs). O aluno deve colocar o código no [Dikastis](https://dikastis.com.br) na página do enunciado da respectiva tarefa, caso o código seja aprovado, o aluno completa a tarefa de recebe a pontuação dela.
 
 ## Informações Extras (regras e outros detalhes):
 
