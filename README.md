@@ -12,7 +12,7 @@ A primeira lista de atividades foi a Lista de Treinamento, depois a Lista 1, em 
 
 No diretório `Listas` existem várias pastas contendo as tarefas de cada lista, cada lista tem um tema específico, cada pasta de cada lista contém uma pasta para cada tarefa, essas pastas de tarefa contém um arquivo `.md` mostrando o enunciado da questão e um arquivo `.py` com a solução do problema em formato de código de python feita por mim.
 
-**OBS:** Os enunciados são da plataforma **Dikastis**, e eu tive que adaptar eles para representa-los em arquivos `.md`, além disso, alguns enunciados além de adaptados estão modificados para o melhor entendimento do leitor(avisarei no enunciado caso ele tenha sido modificado), porém, independete do enunciado ter sido adaptado ou modificado, o enunciado vai conter tudo que é necessário para o entendimento original dele.
+**OBS:** Os enunciados foram hospedados na plataforma [Dikastis](https://dikastis.com.br), e eu tive que adaptar eles para representa-los em arquivos `.md`, além disso, alguns enunciados além de adaptados estão modificados para o melhor entendimento do leitor(avisarei no enunciado caso ele tenha sido modificado), porém, independete do enunciado ter sido adaptado ou modificado, o enunciado vai conter tudo que é necessário para o entendimento original dele.
 
 ## Ementa da Cadeira
 
@@ -22,7 +22,7 @@ Conceitos básicos de algoritmos; conceitos básicos de linguagens de programaç
 
 As tarefas deste repositório são tarefas que devem ser solucionadas utilizando a linguagem de programação **Python**, estas atividades tem como objetivo inserir o anulo de forma introdutória nos conceitos e lógicas de programação.
 
-As tarefas foram hospedadas em uma plataforma chamada [Dikastis](https://dikastis.com.br), onde os alunos tinham uma conta com acesso para ver os enunciados e testar os códigos para resolver os problemas.
+As tarefas foram hospedadas em uma plataforma chamada [Dikastis](https://dikastis.com.br), onde os alunos tinham uma conta com acesso para ver os enunciados e testar os códigos para resolver os problemas, a entrega e verificação das atividades também eram feitas nesta plataforma.
 
 ## Regras:
 
