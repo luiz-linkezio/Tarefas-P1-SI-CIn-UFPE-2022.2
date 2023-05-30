@@ -22,6 +22,8 @@ Basic concepts of algorithms; basic concepts of programming languages; basic con
 
 The tasks in this repository are tasks that should be solved using the **Python** programming language. These activities aim to introduce students to programming concepts and logic in an introductory manner.
 
+The tasks were hosted on a platform called [Dikastis](https://dikastis.com.br), where students had an account with access to view the problem statements and test the code to solve the problems.
+
 ## Rules:
 
 - Students completed one list at a time and had a deadline to submit the activities of each list. The deadline varied depending on the list, but the longest deadline established for the course was 1 month.
