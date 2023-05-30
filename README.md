@@ -24,6 +24,8 @@ As tarefas deste repositório são tarefas que devem ser solucionadas utilizando
 
 As tarefas foram hospedadas em uma plataforma chamada [Dikastis](https://dikastis.com.br), onde os alunos tinham uma conta com acesso para ver os enunciados e testar os códigos para resolver os problemas, a entrega e verificação das atividades também eram feitas nesta plataforma.
 
+As tarefas são no seguinte formato: Existe um problema no enunciado, o aluno tem que criar um código que vai receber uma ou mais entradas(inputs) e vai gerar uma ou mais saídas(outputs). O aluno deve colocar o código no [Dikastis](https://dikastis.com.br) na página do enunciado da respectiva tarefa, caso o código seja aprovado, o aluno completa a tarefa de recebe a pontuação dela.
+
 ## Regras:
 
 - Os alunos faziam uma lista por vez e tinham um prazo para enviar as atividades da lista, o prazo variou dependendo da lista, mas o maior prazo estabelicido na cadeira foi 1 mês.
