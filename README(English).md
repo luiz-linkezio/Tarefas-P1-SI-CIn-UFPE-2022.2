@@ -26,7 +26,7 @@ The tasks were hosted on a platform called [Dikastis](https://dikastis.com.br), 
 
 The tasks are in the following format: There is a problem in the statement, and the student must create a code that will receive one or more inputs and generate one or more outputs. The student should place the code on [Dikastis](https://dikastis.com.br) on the respective task's page. If the code is approved, the student completes the task and receives its score.
 
-## Rules:
+## Extra Information (Rules and other details):
 
 - Students completed one list at a time and had a deadline to submit the activities of each list. The deadline varied depending on the list, but the longest deadline established for the course was 1 month.
 - Each list had a minimum and maximum score from 0 to 10, respectively, and each question was worth the same score. The lists accounted for 70% of the course grade, and the final project accounted for 30%.
