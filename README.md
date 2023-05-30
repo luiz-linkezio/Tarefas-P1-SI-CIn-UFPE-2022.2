@@ -26,7 +26,7 @@ As tarefas foram hospedadas em uma plataforma chamada [Dikastis](https://dikasti
 
 As tarefas são no seguinte formato: Existe um problema no enunciado, o aluno tem que criar um código que vai receber uma ou mais entradas(inputs) e vai gerar uma ou mais saídas(outputs). O aluno deve colocar o código no [Dikastis](https://dikastis.com.br) na página do enunciado da respectiva tarefa, caso o código seja aprovado, o aluno completa a tarefa de recebe a pontuação dela.
 
-## Informações Extras (Regras e outros detalhes):
+## Informações Extras (regras e outros detalhes):
 
 - Os alunos faziam uma lista por vez e tinham um prazo para enviar as atividades da lista, o prazo variou dependendo da lista, mas o maior prazo estabelicido na cadeira foi 1 mês.
 - Cada lista tinha pontuação mínima e máxima de 0 a 10 respectivamente, e cada questão valia a mesma pontuação. As listas valiam 70% da nota da cadeira, e o projeto final valia 30%.
