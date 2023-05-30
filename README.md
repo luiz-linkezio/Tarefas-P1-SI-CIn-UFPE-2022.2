@@ -31,6 +31,7 @@ As tarefas foram hospedadas em uma plataforma chamada [Dikastis](https://dikasti
 - Os alunos eram proibidos de usar qualquer conteúdo das listas futuras, ou seja, não era permitido usar Tuplas(lista 6) nas tarefas da lista 1.
 - Algumas questões tem regras próprias, como exigir o uso de uma função específica, por exemplo.
 - Os alunos e as tarefas eram monitorados para evitar que algum aluno copiasse respostas de outros alunos.
+- As questões têm algo chamado "limite de tempo do código" que é o tempo máximo que o código pode demorar para rodar completamente, cada questão tem seu tempo limite descrito no enunciado.
 
 ## Minha Nota na Cadeira:
 ### Consegui nota máxima na cadeira (valia de 0 a 10).
