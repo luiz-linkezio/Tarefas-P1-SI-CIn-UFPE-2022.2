@@ -24,6 +24,8 @@ The tasks in this repository are tasks that should be solved using the **Python*
 
 The tasks were hosted on a platform called [Dikastis](https://dikastis.com.br), where students had an account with access to view the problem statements and test the code to solve the problems. The submission and verification of the activities were also done on this platform.
 
+The tasks are in the following format: There is a problem in the statement, and the student must create a code that will receive one or more inputs and generate one or more outputs. The student should place the code on [Dikastis](https://dikastis.com.br) on the respective task's page. If the code is approved, the student completes the task and receives its score.
+
 ## Rules:
 
 - Students completed one list at a time and had a deadline to submit the activities of each list. The deadline varied depending on the list, but the longest deadline established for the course was 1 month.
