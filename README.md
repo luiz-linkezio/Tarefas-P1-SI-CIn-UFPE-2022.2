@@ -34,4 +34,4 @@ As tarefas foram hospedadas em uma plataforma chamada [Dikastis](https://dikasti
 
 ## Minha Nota na Cadeira:
 ### Consegui nota máxima na cadeira (valia de 0 a 10).
-<a href="https://ibb.co/MkHXxjf"><img src="https://i.ibb.co/tp6dTNz/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/MkHXxjf"><img src="https://i.ibb.co/tp6dTNz/image.png" alt="Nota na Cadeira" border="0"></a>
