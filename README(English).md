@@ -20,11 +20,11 @@ Basic concepts of algorithms; basic concepts of programming languages; basic con
 
 ## Task Proposal
 
-The tasks in this repository are tasks that should be solved using the **Python** programming language. These activities aim to introduce students to programming concepts and logic in an introductory manner.
+The tasks in this repository are tasks that should be solved using the [Python](https://www.python.org) programming language. These activities aim to introduce students to programming concepts and logic in an introductory manner.
 
 The tasks were hosted on a platform called [Dikastis](https://dikastis.com.br), where students had an account with access to view the problem statements and test the code to solve the problems. The submission and verification of the activities were also done on this platform.
 
-The tasks are in the following format: There is a problem in the statement, and the student must create a code that will receive one or more inputs and generate one or more outputs. The student should place the code on [Dikastis](https://dikastis.com.br) on the respective task's page. If the code is approved, the student completes the task and receives its score.
+The tasks are in the following format: There is a problem in the statement, and the student must create a [Python](https://www.python.org) code that will receive one or more inputs and generate one or more outputs.. The student should place the code on [Dikastis](https://dikastis.com.br) on the respective task's page. If the code is approved, the student completes the task and receives its score.
 
 ## Extra Information (rules and other details):
 
