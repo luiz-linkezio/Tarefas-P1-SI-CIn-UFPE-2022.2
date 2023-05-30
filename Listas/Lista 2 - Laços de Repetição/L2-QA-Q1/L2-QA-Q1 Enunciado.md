@@ -1,6 +1,6 @@
 # Férias derrotando aliens
 
-**Limite de tempo do código: 2000ms**
+**Limite de tempo do código: 200ms**
 
 Chegando as tão esperadas férias, Ben Tenysson se prepara para virar herói e pede a sua ajuda para saber quantos alienígenas ele consegue derrotar por dia.
 

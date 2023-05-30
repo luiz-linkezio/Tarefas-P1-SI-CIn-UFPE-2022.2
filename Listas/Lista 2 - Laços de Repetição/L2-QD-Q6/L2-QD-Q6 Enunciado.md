@@ -1,6 +1,6 @@
 # "Ferb, já sei o que vamos fazer hoje!"
 
-**Limite de tempo do código: 2000ms**
+**Limite de tempo do código: 1000ms**
 
 Depois de um início de período atípico, os Cinners estão entrando de férias e irão aproveitar a oportunidade para desopilar! Enquanto esperava por esse momento, você utilizou seu tempo livre para assistir um episódio de Phineas e Ferb e os irmãos acabaram te inspirando a aproveitar o recesso pra realizar várias invenções!
 

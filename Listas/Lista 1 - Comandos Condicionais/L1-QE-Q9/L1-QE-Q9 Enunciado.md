@@ -1,6 +1,6 @@
 # Mostra tua força Brasil! 
 
-**Limite de tempo do código: 2000ms**
+**Limite de tempo do código: 800ms**
 
 Depois de conseguir avançar na fase de grupos, a seleção de Tite chega como uma forte candidata a vencer o torneio, mas Tite não quis esperar o final da copa para saber se o brasil ia ser campeão ou não, então ele decidiu pedir para você fazer uma simulação com o mata-mata da seleção brasileira para ver o que ia acontecer.
 
