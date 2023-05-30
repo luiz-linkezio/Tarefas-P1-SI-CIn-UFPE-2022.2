@@ -12,7 +12,7 @@ The first set of activities was the Training List, followed by List 1, then List
 
 In the `Listas` directory, there are several folders containing the tasks for each list. Each list has a specific theme, and each folder within each list contains a folder for each task. These task folders contain an `.md` file showing the question statement and a `.py` file with the solution to the problem in Python code format, which was done by me.
 
-**Note:** The statements are from the Dikastis platform, and I had to adapt them to represent them in .md files. Additionally, some statements, besides being adapted, have been modified for better reader understanding (I will notify in the statement if it has been modified). However, regardless of whether the statement has been adapted or modified, it will contain everything necessary for its original understanding.
+**Note:** The statements were hosted on the [Dikastis](https://dikastis.com.br) platform., and I had to adapt them to represent them in .md files. Additionally, some statements, besides being adapted, have been modified for better reader understanding (I will notify in the statement if it has been modified). However, regardless of whether the statement has been adapted or modified, it will contain everything necessary for its original understanding.
 
 ## Course Syllabus
 
@@ -22,7 +22,7 @@ Basic concepts of algorithms; basic concepts of programming languages; basic con
 
 The tasks in this repository are tasks that should be solved using the **Python** programming language. These activities aim to introduce students to programming concepts and logic in an introductory manner.
 
-The tasks were hosted on a platform called [Dikastis](https://dikastis.com.br), where students had an account with access to view the problem statements and test the code to solve the problems.
+The tasks were hosted on a platform called [Dikastis](https://dikastis.com.br), where students had an account with access to view the problem statements and test the code to solve the problems. The submission and verification of the activities were also done on this platform.
 
 ## Rules:
 
