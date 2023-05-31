@@ -8,7 +8,7 @@ O mundo de Gravity Falls está quase sendo destruído! Bill Cipher se cansou e d
 
 Para tal, lembre-se de usar tudo que aprendeu até o momento!! É importante lutar e defender com todas as armas em mãos. (Livre uso de condicionais, loops e o que foi aprendido sobre lista 🙂)
 
-**OBS:** É permitido APENAS o uso da função append() e split() na resolução da questão. Qualquer outra função de lista ou uso de assuntos não vistos resultará na ANULAÇÃO DA QUESTÃO.
+**OBS:** É permitido APENAS o uso da função **append()** e **split()** na resolução da questão. Qualquer outra função de lista ou uso de assuntos não vistos resultará na ANULAÇÃO DA QUESTÃO.
 
 ![Bill Cipher Bravo](https://media.tenor.com/9NsGITXkts4AAAAM/bill-cipher-gravity-falls.gif)
 
