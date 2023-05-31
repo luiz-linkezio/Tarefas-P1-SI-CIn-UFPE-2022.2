@@ -2,7 +2,7 @@
 
 Tarefas da cadeira Programação 1 (P1) do curso Sistemas de Informação (SI) do Centro de Informática (CIN) da Universidade Federal de Pernambuco (UFPE), cadeira cursada por mim no final do segundo semestre de 2022 e primeiro semestre de 2023. 
 
-As atividades que valem pontuação na cadeira são as listas deste repositório e um projeto final, confira o projeto neste outro repositório: https://github.com/luiz-linkezio/projeto-p1-equipe7
+As atividades que valeram pontuação na cadeira são as listas deste repositório e um projeto final, confira o projeto neste outro repositório: https://github.com/luiz-linkezio/projeto-p1-equipe7
 
 A primeira lista de atividades foi a Lista de Treinamento, depois a Lista 1, em seguida a Lista 2, e assim sucessivamente até a lista 6.
 
