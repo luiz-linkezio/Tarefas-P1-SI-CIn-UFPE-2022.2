@@ -2,7 +2,7 @@
 
 Tasks for the Programming 1 (P1) course of the Information Systems (SI) program at the Center for Informatics (CIN) of the Federal University of Pernambuco (UFPE), a course I took in the second half of 2022 and first half of 2023.
 
-The scoring activities for the course include the lists in this repository and a final project. Check the project in this other repository: https://github.com/luiz-linkezio/projeto-p1-equipe7
+The activities that earned points in the course include the lists in this repository and a final project. Check the project in this other repository: https://github.com/luiz-linkezio/projeto-p1-equipe7
 
 The first set of activities was the Training List, followed by List 1, then List 2, and so on up to List 6.
 
