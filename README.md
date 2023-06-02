@@ -12,7 +12,7 @@ A primeira lista de atividades foi a Lista de Treinamento, depois a Lista 1, em 
 
 No diretório `Listas` existem várias pastas contendo as tarefas de cada lista, cada lista tem um tema específico, cada pasta de cada lista contém uma pasta para cada tarefa, essas pastas de tarefa contém um arquivo `.md` mostrando o enunciado da questão e um arquivo `.py` com a solução do problema em formato de código de python feita por mim.
 
-**OBS:** Os enunciados foram hospedados na plataforma [Dikastis](https://dikastis.com.br), e eu tive que adaptar eles para representa-los em arquivos `.md`, além disso, alguns enunciados além de adaptados estão modificados para o melhor entendimento do leitor(avisarei no enunciado caso ele tenha sido modificado), porém, independete do enunciado ter sido adaptado ou modificado, o enunciado vai conter tudo que é necessário para o entendimento original dele.
+**OBS:** Os enunciados foram hospedados na plataforma [Dikastis](https://dikastis.com.br), e eu tive que adaptar eles para representa-los em arquivos `.md`, além disso, alguns enunciados além de adaptados estão modificados para o melhor entendimento do leitor(enunciados modificados terão um aviso de que foi modificado), porém, independete do enunciado ter sido adaptado ou modificado, o enunciado vai conter tudo que é necessário para o entendimento original dele. Lembrando, adaptações menores e irrelevantes serão consideradas adaptações, não modificações.
 
 ## Ementa da Cadeira
 
@@ -34,7 +34,7 @@ As tarefas são no seguinte formato: Existe um problema no enunciado, o aluno te
 - Algumas questões tem regras próprias, como exigir o uso de uma função específica, por exemplo.
 - Os alunos e as tarefas eram monitorados para evitar que algum aluno copiasse respostas de outros alunos.
 - As questões têm algo chamado "limite de tempo do código" que é o tempo máximo que o código pode demorar para rodar completamente, cada questão tem seu tempo limite descrito no enunciado.
-- Algumas tarefas foram mal feitas e/ou feitas incorretamente pelos autores originais, por isso, esse é um dos motivos de alguns enunciados estarem diferentes do originais(ainda podendo conter erros/ambiguidades). Além disso, esses erros fizeram com que alguns códigos meus tivessem coisas sem sentido e/ou incorretas apenas para ser aceito na plataforma como resposta correta.
+- Algumas tarefas foram mal feitas e/ou feitas incorretamente pelos autores originais, por isso, esse é um dos motivos de alguns enunciados estarem diferentes do originais(ainda podendo conter erros/ambiguidades). Além disso, esses erros fizeram com que alguns códigos meus tivessem coisas sem sentido e/ou incorretas apenas para ser aceito na plataforma como resposta correta (as tarefas com esses problemas terão avisos no enunciado e/ou no código).
 
 ## Minha Nota na Cadeira:
 ### Consegui nota máxima na cadeira (valia de 0 a 10).
