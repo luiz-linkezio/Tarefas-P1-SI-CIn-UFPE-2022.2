@@ -8,15 +8,15 @@ The first task list was the Training List, then List 1, followed by List 2, and 
 
 **Note:** There was an extra list to help improve the scores of those who didn't achieve the maximum grade in the previous lists, but I managed to get the maximum grade, so I didn't do this extra list. Additionally, there was a final exam list, but I didn't need to take it since I passed by average.
 
+## Course Syllabus
+
+Basic concepts of algorithms; basic concepts of programming languages; basic concepts of object-oriented programming and software quality; programming environment; control structures and composite data structures; files; basic concepts of data structures; implementation design.
+
 ## File Organization
 
 In the `Listas` directory, there are several folders containing the tasks for each list. Each list has a specific theme, and each folder within each list contains a folder for each task. These task folders contain an `.md` file showing the question statement and a `.py` file with the solution to the problem in Python code format, which was done by me.
 
 **Note:** The statements were hosted on the [Dikastis](https://dikastis.com.br) platform., and I had to adapt them to represent them in .md files. Additionally, some statements, besides being adapted, have been modified for better reader understanding (modified statements will have a notice indicating that they have been modified.). However, regardless of whether the statement has been adapted or modified, the understanding of the statement will not be compromised. Please note that minor and irrelevant changes will be considered as adaptations, not modifications.
-
-## Course Syllabus
-
-Basic concepts of algorithms; basic concepts of programming languages; basic concepts of object-oriented programming and software quality; programming environment; control structures and composite data structures; files; basic concepts of data structures; implementation design.
 
 ## Task Proposal
 
