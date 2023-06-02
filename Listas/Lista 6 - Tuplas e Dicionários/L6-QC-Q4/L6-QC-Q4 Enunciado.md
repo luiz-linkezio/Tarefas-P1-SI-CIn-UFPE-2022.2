@@ -45,6 +45,8 @@ A segunda linha de entrada corresponde se eles são recém nascidos ou não:
 sim
 ```
 
+ou
+
 ```
 nao
 ```
