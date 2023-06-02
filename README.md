@@ -8,15 +8,15 @@ A primeira lista de tarefas foi a Lista de Treinamento, depois a Lista 1, em seg
 
 **OBS:** Houve uma lista extra pra ajudar na pontuação de quem não tinha conseguido nota máxima nas outras listas, mas eu consegui a nota máxima, então não fiz esta lista extra. Além disso, houve uma lista como prova final, também não precisei fazer porque passei por média.
 
+## Ementa da Cadeira
+
+Conceitos básicos de algoritmos; conceitos básicos de linguagens de programação; conceitos básicos de programação orientada a objetos e qualidade de software; ambiente de programação; estruturas de controle e estrutura de dados compostas; arquivos; conceitos básicos de estruturas de dados; projeto de implementação.
+
 ## Organização dos Arquivos
 
 No diretório `Listas` existem várias pastas contendo as tarefas de cada lista, cada lista tem um tema específico, cada pasta de cada lista contém uma pasta para cada tarefa, essas pastas de tarefa contém um arquivo `.md` mostrando o enunciado da questão e um arquivo `.py` com a solução do problema em formato de código de python feita por mim.
 
 **OBS:** Os enunciados foram hospedados na plataforma [Dikastis](https://dikastis.com.br), e eu tive que adaptar eles para representa-los em arquivos `.md`, além disso, alguns enunciados além de adaptados estão modificados para o melhor entendimento do leitor(enunciados modificados terão um aviso de que foi modificado), porém, independete do enunciado ter sido adaptado ou modificado, o entendinmento do enunciado não será prejudicado. Lembrando, mudanças menores e irrelevantes serão consideradas adaptações, não modificações.
-
-## Ementa da Cadeira
-
-Conceitos básicos de algoritmos; conceitos básicos de linguagens de programação; conceitos básicos de programação orientada a objetos e qualidade de software; ambiente de programação; estruturas de controle e estrutura de dados compostas; arquivos; conceitos básicos de estruturas de dados; projeto de implementação.
 
 ## Proposta das Tarefas
 
