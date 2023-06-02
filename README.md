@@ -40,3 +40,13 @@ As tarefas são no seguinte formato: Existe um problema no enunciado, o aluno te
 ## Minha Nota na Cadeira:
 ### Consegui nota máxima na cadeira (valia de 0 a 10).
 <a href="https://ibb.co/MkHXxjf"><img src="https://i.ibb.co/tp6dTNz/image.png" alt="Nota na Cadeira" border="0"></a>
+
+## Links:
+
+Site do Dikastis: https://dikastis.com.br
+
+Site oficial do Python: https://www.python.org
+
+Site do CIN: https://portal.cin.ufpe.br/
+
+Site da UFPE: https://www.ufpe.br/
