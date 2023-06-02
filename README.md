@@ -45,7 +45,7 @@ As tarefas são no seguinte formato: Existe um problema no enunciado, o aluno te
 
 Site do Dikastis: https://dikastis.com.br
 
-Site oficial do Python: https://www.python.org
+Python site oficial: https://www.python.org
 
 Site do CIN: https://portal.cin.ufpe.br/
 
