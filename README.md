@@ -35,6 +35,7 @@ As tarefas são no seguinte formato: Existe um problema no enunciado, o aluno te
 - Os alunos e as tarefas eram monitorados para evitar que algum aluno copiasse respostas de outros alunos.
 - As questões têm algo chamado "limite de tempo do código" que é o tempo máximo que o código pode demorar para rodar completamente, cada questão tem seu tempo limite descrito no enunciado.
 - Algumas tarefas foram mal feitas e/ou feitas incorretamente pelos autores originais, por isso, esse é um dos motivos de alguns enunciados estarem diferentes do originais(ainda podendo conter erros/ambiguidades). Além disso, esses erros fizeram com que alguns códigos meus tivessem coisas sem sentido e/ou incorretas apenas para ser aceito na plataforma como resposta correta (as tarefas com esses problemas terão avisos no enunciado e/ou no código).
+- Respondi todas as tarefas corretamente no prazo.
 
 ## Minha Nota na Cadeira:
 ### Consegui nota máxima na cadeira (valia de 0 a 10).
