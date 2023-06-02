@@ -12,7 +12,7 @@ The first set of activities was the Training List, followed by List 1, then List
 
 In the `Listas` directory, there are several folders containing the tasks for each list. Each list has a specific theme, and each folder within each list contains a folder for each task. These task folders contain an `.md` file showing the question statement and a `.py` file with the solution to the problem in Python code format, which was done by me.
 
-**Note:** The statements were hosted on the [Dikastis](https://dikastis.com.br) platform., and I had to adapt them to represent them in .md files. Additionally, some statements, besides being adapted, have been modified for better reader understanding (modified statements will have a notice indicating that they have been modified.). However, regardless of whether the statement has been adapted or modified, it will contain everything necessary for its original understanding. Please note that minor and irrelevant changes will be considered as adaptations, not modifications.
+**Note:** The statements were hosted on the [Dikastis](https://dikastis.com.br) platform., and I had to adapt them to represent them in .md files. Additionally, some statements, besides being adapted, have been modified for better reader understanding (modified statements will have a notice indicating that they have been modified.). However, regardless of whether the statement has been adapted or modified, the understanding of the statement will not be compromised. Please note that minor and irrelevant changes will be considered as adaptations, not modifications.
 
 ## Course Syllabus
 
