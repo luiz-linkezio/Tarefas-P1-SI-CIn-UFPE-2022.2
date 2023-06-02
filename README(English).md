@@ -4,7 +4,7 @@ Tasks for the Programming 1 (P1) course of the Information Systems (SI) program 
 
 The activities that earned points in the course include the lists in this repository and a final project. Check the project in this other repository: https://github.com/luiz-linkezio/projeto-p1-equipe7
 
-The first set of activities was the Training List, followed by List 1, then List 2, and so on up to List 6.
+The first task list was the Training List, then List 1, followed by List 2, and so on until List 6.
 
 **Note:** There was an extra list to help improve the scores of those who didn't achieve the maximum grade in the previous lists, but I managed to get the maximum grade, so I didn't do this extra list. Additionally, there was a final exam list, but I didn't need to take it since I passed by average.
 
