@@ -12,7 +12,7 @@ The first set of activities was the Training List, followed by List 1, then List
 
 In the `Listas` directory, there are several folders containing the tasks for each list. Each list has a specific theme, and each folder within each list contains a folder for each task. These task folders contain an `.md` file showing the question statement and a `.py` file with the solution to the problem in Python code format, which was done by me.
 
-**Note:** The statements were hosted on the [Dikastis](https://dikastis.com.br) platform., and I had to adapt them to represent them in .md files. Additionally, some statements, besides being adapted, have been modified for better reader understanding (I will notify in the statement if it has been modified). However, regardless of whether the statement has been adapted or modified, it will contain everything necessary for its original understanding.
+**Note:** The statements were hosted on the [Dikastis](https://dikastis.com.br) platform., and I had to adapt them to represent them in .md files. Additionally, some statements, besides being adapted, have been modified for better reader understanding (modified statements will have a notice indicating that they have been modified.). However, regardless of whether the statement has been adapted or modified, it will contain everything necessary for its original understanding. Please note that minor and irrelevant changes will be considered as adaptations, not modifications.
 
 ## Course Syllabus
 
@@ -34,7 +34,7 @@ The tasks are in the following format: There is a problem in the statement, and 
 - Some questions have their own rules, such as requiring the use of a specific function, for example.
 - Students and tasks were monitored to prevent any copying of answers from other students.
 - The tasks have something called "limite de tempo do código" which is the maximum time the code can take to run completely. Each task has its time limit described in the statement.
-- Some tasks were poorly executed and/or executed incorrectly by the original authors, which is one of the reasons why some statements are different from the originals (and may still contain errors/ambiguities). Additionally, these errors caused some of my codes to have nonsensical and/or incorrect elements just to be accepted on the platform as the correct answer.
+- Some tasks were poorly executed and/or executed incorrectly by the original authors, which is one of the reasons why some statements are different from the originals (and may still contain errors/ambiguities). Additionally, these errors caused some of my codes to have nonsensical and/or incorrect elements just to be accepted on the platform as the correct answer (tasks with these issues will have warnings in the statement and/or in the code).
 
 ## My Grade in the Course:
 ### I achieved the maximum grade in the course (ranging from 0 to 10).
