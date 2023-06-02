@@ -1,6 +1,6 @@
 # Adoção de pets
 
-- **(Este enunciado foi elaborado incorretamente pelo autor original, dito isso, o meu código teve que ser alterado para algo que não é o que o enunciado pede, mas era o que eu tinha que fazer para a questão ser aceita na plataforma.)**
+- **(Este enunciado foi elaborado incorretamente pelo autor original, dito isso, o meu código teve que ser alterado para algo que não é o que o enunciado pede, mas era o que eu tinha que fazer para a questão ser aceita na plataforma como resposta correta.)**
 
 **Limite de tempo do código: 2000ms**
 
