@@ -1,3 +1,5 @@
+#O enunciado desta tarefa foi mal elaborado pelo autor original e contém ambiguidades. Tive que mudar meu código para lidar com essas ambiguidades, então talvez o meu código tenha algo que não faça muito sentido, mas foi necessário para minha resposta ser considerada correta na plataforma.
+
 nome = "essa questão dá gatilho, chorei fazendo, me dá 10"
 contador_deu_bom = 0
 contador_deu_ruim = 0

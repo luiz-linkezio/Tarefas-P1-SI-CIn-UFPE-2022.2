@@ -1,3 +1,5 @@
+#O enunciado desta tarefa foi elaborado incorretamente pelo autor original, dito isso, o meu código teve que ser alterado para algo que não é o que o enunciado pede, mas era o que eu tinha que fazer para a questão ser aceita na plataforma.
+
 def rinha(animal1,animal2):
   global teve_treta
   

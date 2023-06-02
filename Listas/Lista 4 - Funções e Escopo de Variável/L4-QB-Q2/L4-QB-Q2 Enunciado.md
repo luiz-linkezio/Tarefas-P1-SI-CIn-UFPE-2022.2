@@ -1,5 +1,7 @@
 # Denji quer uma namorada 
 
+- **(Este enunciado foi mal elaborado pelo autor original e contém ambiguidades. Tive que mudar meu código para lidar com essas ambiguidades, então talvez o meu código tenha algo que não faça muito sentido, mas foi necessário para minha resposta ser considerada correta na plataforma.)**
+
 **Limite de tempo do código: 200ms**
 
 O menino-serra é só um adolescente, e como qualquer outro pivete de 16 anos, só quer saber de uma coisa: sim, batman, eles estão falando daquilo. Mas Denji tem um pequeno azar e todas as mulheres que ele conhece querem matar ele.
