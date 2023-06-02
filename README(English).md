@@ -35,6 +35,7 @@ The tasks are in the following format: There is a problem in the statement, and 
 - Students and tasks were monitored to prevent any copying of answers from other students.
 - The tasks have something called "limite de tempo do código" which is the maximum time the code can take to run completely. Each task has its time limit described in the statement.
 - Some tasks were poorly executed and/or executed incorrectly by the original authors, which is one of the reasons why some statements are different from the originals (and may still contain errors/ambiguities). Additionally, these errors caused some of my codes to have nonsensical and/or incorrect elements just to be accepted on the platform as the correct answer (tasks with these issues will have warnings in the statement and/or in the code).
+- I answered all the tasks correctly within the deadline.
 
 ## My Grade in the Course:
 ### I achieved the maximum grade in the course (ranging from 0 to 10).
