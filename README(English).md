@@ -40,3 +40,13 @@ The tasks are in the following format: There is a problem in the statement, and 
 ## My Grade in the Course:
 ### I achieved the maximum grade in the course (ranging from 0 to 10).
 <a href="https://ibb.co/MkHXxjf"><img src="https://i.ibb.co/tp6dTNz/image.png" alt="Course Grade" border="0"></a>
+
+## Links:
+
+Dikastis website: https://dikastis.com.br
+
+Official Python website: https://www.python.org
+
+CIN website: https://portal.cin.ufpe.br/
+
+UFPE website: https://www.ufpe.br/
