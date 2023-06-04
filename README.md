@@ -38,7 +38,7 @@ As tarefas são no seguinte formato: Existe um problema no enunciado, o aluno te
 - Respondi todas as tarefas corretamente no prazo.
 
 ## Minha Nota na Cadeira:
-### Consegui nota máxima na cadeira (valia de 0 a 10).
+### Consegui nota máxima e fui aprovado na cadeira (a nota valia de 0 a 10).
 <a href="https://ibb.co/MkHXxjf"><img src="https://i.ibb.co/tp6dTNz/image.png" alt="Nota na Cadeira" border="0"></a>
 
 ## Links:
