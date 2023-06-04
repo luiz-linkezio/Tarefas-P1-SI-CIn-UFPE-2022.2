@@ -38,7 +38,7 @@ The tasks are in the following format: There is a problem in the statement, and 
 - I answered all the tasks correctly within the deadline.
 
 ## My Grade in the Course:
-### I achieved the maximum grade in the course (ranging from 0 to 10).
+### I achieved the maximum grade and passed the course (the grade ranged from 0 to 10).
 <a href="https://ibb.co/MkHXxjf"><img src="https://i.ibb.co/tp6dTNz/image.png" alt="Course Grade" border="0"></a>
 
 ## Links:
