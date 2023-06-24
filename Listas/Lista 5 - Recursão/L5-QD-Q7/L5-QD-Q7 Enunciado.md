@@ -12,9 +12,11 @@ Ele chamou você para criar uma "inteligência artificial" que o auxilie a encon
 
 Exemplo:
 
+```
 [A L R Q U]
 [R U E I A]
 [Y T R N W]
+```
 
 Nesse exemplo, a partir do primeiro A, seguindo as direções ⬇️↗️↘️↗️➡️↙️⬇️↗️ você encontra ARLEQUINA
 
