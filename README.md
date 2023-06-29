@@ -14,7 +14,7 @@ Conceitos básicos de algoritmos; conceitos básicos de linguagens de programaç
 
 ## Organização dos Arquivos
 
-No diretório `Listas` existem várias pastas contendo as tarefas de cada lista, cada lista tem um tema específico, cada pasta de cada lista contém uma pasta para cada tarefa, essas pastas de tarefa contém um arquivo `.md` mostrando o enunciado da questão e um arquivo `.py` com a solução do problema em formato de código de python feita por mim.
+No diretório `Listas` existem várias pastas contendo as tarefas de cada lista, cada lista tem um tema específico, cada pasta de cada lista contém uma pasta para cada tarefa, essas pastas de tarefa contém um arquivo `.md` mostrando o enunciado da tarefa e um arquivo `.py` com a solução do problema em formato de código de python feita por mim.
 
 **OBS:** Os enunciados foram hospedados na plataforma [Dikastis](https://dikastis.com.br), e eu tive que adaptar eles para representa-los em arquivos `.md`, além disso, alguns enunciados além de adaptados estão modificados para o melhor entendimento do leitor(enunciados modificados terão um aviso de que foi modificado), porém, independete do enunciado ter sido adaptado ou modificado, o entendinmento do enunciado não será prejudicado. Lembrando, mudanças menores e irrelevantes serão consideradas adaptações, não modificações.
 
