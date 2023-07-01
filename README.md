@@ -31,9 +31,9 @@ As tarefas são no seguinte formato: Existe um problema no enunciado, o aluno te
 - Os alunos faziam uma lista por vez e tinham um prazo para enviar as atividades da lista, o prazo variou dependendo da lista, mas o maior prazo estabelicido na cadeira foi 1 mês.
 - Cada lista tinha pontuação mínima e máxima de 0 a 10 respectivamente, e cada questão valia a mesma pontuação. As listas valiam 70% da nota da cadeira, e o projeto final valia 30%.
 - Os alunos eram proibidos de usar qualquer conteúdo das listas futuras, ou seja, não era permitido usar Tuplas(lista 6) nas tarefas da lista 1.
-- Algumas questões tem regras próprias, como exigir o uso de uma função específica, por exemplo.
+- Algumas tarefas tem regras próprias, como exigir o uso de uma função específica, por exemplo.
 - Os alunos e as tarefas eram monitorados para evitar que algum aluno copiasse respostas de outros alunos.
-- As questões têm algo chamado "limite de tempo do código" que é o tempo máximo que o código pode demorar para rodar completamente, cada questão tem seu tempo limite descrito no enunciado.
+- As tarefas têm algo chamado "limite de tempo do código" que é o tempo máximo que o código pode demorar para rodar completamente, cada questão tem seu tempo limite descrito no enunciado.
 - Algumas tarefas foram mal feitas e/ou feitas incorretamente pelos autores originais, por isso, esse é um dos motivos de alguns enunciados estarem diferentes do originais(ainda podendo conter erros/ambiguidades). Além disso, esses erros fizeram com que alguns códigos meus tivessem coisas sem sentido e/ou incorretas apenas para ser aceito na plataforma como resposta correta (as tarefas com esses problemas terão avisos no enunciado e/ou no código).
 - Respondi todas as tarefas corretamente no prazo.
 
