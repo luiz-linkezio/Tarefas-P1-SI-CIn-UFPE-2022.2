@@ -1,6 +1,6 @@
 # Tarefas-P1-SI-CIN-UFPE-2022.2
 
-Tarefas da cadeira Programação 1 (P1) do curso [Sistemas de Informação (SI)](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) do [Centro de Informática (CIN)](https://portal.cin.ufpe.br/) da [Universidade Federal de Pernambuco (UFPE)](https://www.ufpe.br/), cadeira cursada por mim no final do segundo semestre de 2022 e primeiro semestre de 2023. 
+Tarefas da cadeira Programação 1 (P1) da graduação em [Sistemas de Informação (SI)](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) do [Centro de Informática (CIN)](https://portal.cin.ufpe.br/) da [Universidade Federal de Pernambuco (UFPE)](https://www.ufpe.br/), cadeira cursada por mim no final do segundo semestre de 2022 e primeiro semestre de 2023. 
 
 As atividades que valeram pontuação na cadeira são as listas deste repositório e um projeto final, confira o projeto neste outro repositório: https://github.com/luiz-linkezio/projeto-p1-equipe7
 
@@ -49,6 +49,6 @@ Python site oficial: https://www.python.org
 
 Site do CIN: https://portal.cin.ufpe.br/
 
-Site do curso de Sistemas de Informação (SI): https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/
+Site da graduação em Sistemas de Informação (SI): https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/
 
 Site da UFPE: https://www.ufpe.br/
