@@ -31,7 +31,7 @@ The tasks are in the following format: There is a problem in the statement, and 
 - Students completed one list at a time and had a deadline to submit the activities of each list. The deadline varied depending on the list, but the longest deadline established for the course was 1 month.
 - Each list had a minimum and maximum score from 0 to 10, respectively, and each question was worth the same score. The lists accounted for 70% of the course grade, and the final project accounted for 30%.
 - Students were not allowed to use any content from future lists, meaning it was not permitted to use Tuples (List 6) in the tasks of List 1.
-- Some questions have their own rules, such as requiring the use of a specific function, for example.
+- Some tasks have their own rules, such as requiring the use of a specific function, for example.
 - Students and tasks were monitored to prevent any copying of answers from other students.
 - The tasks have something called "limite de tempo do código" which is the maximum time the code can take to run completely. Each task has its time limit described in the statement.
 - Some tasks were poorly executed and/or executed incorrectly by the original authors, which is one of the reasons why some statements are different from the originals (and may still contain errors/ambiguities). Additionally, these errors caused some of my codes to have nonsensical and/or incorrect elements just to be accepted on the platform as the correct answer (tasks with these issues will have warnings in the statement and/or in the code).
