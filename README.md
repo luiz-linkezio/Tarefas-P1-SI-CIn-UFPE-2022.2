@@ -26,7 +26,7 @@ As tarefas deste repositório são tarefas que devem ser solucionadas utilizando
 
 As tarefas foram hospedadas em uma plataforma chamada [Dikastis](https://dikastis.com.br), onde os alunos tinham uma conta com acesso para ver os enunciados e testar os códigos para resolver os problemas, a entrega e verificação das atividades também eram feitas nesta plataforma.
 
-As tarefas são no seguinte formato: Existe um problema no enunciado, o aluno tem que criar um código em [Python](https://www.python.org) que vai receber uma ou mais entradas(inputs) e vai gerar uma ou mais saídas(outputs). O aluno deve colocar o código no [Dikastis](https://dikastis.com.br) na página do enunciado da respectiva tarefa, caso o código seja aprovado, o aluno completa a tarefa de recebe a pontuação dela.
+As tarefas são no seguinte formato: Existe um problema no enunciado, o aluno tem que criar um código em [Python](https://www.python.org) que vai receber uma ou mais entradas(inputs) e vai gerar uma ou mais saídas(outputs). O aluno deve colocar o código no [Dikastis](https://dikastis.com.br) na página do enunciado da respectiva tarefa, caso o código seja aprovado, o aluno completa a tarefa de recebe a pontuação dela, o aluno podem tentar infinitas vezes antes desde que esteja dentro do prazo.
 
 ## Informações Extras (regras e outros detalhes):
 
