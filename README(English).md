@@ -1,6 +1,6 @@
 # Tasks-P1-SI-CIN-UFPE-2022.2
 
-Tasks for the Programming 1 (P1) course of the [Information Systems (SI)](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) undergraduate program at the [Center for Informatics (CIN)](https://portal.cin.ufpe.br/) of the [Federal University of Pernambuco (UFPE)](https://www.ufpe.br/), a course I took in the second half of 2022 and first half of 2023.
+Tasks for the Programming 1 (P1) course of the [Information Systems (SI)](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) undergraduate program at the [Center for Informatics (CIn)](https://portal.cin.ufpe.br/) of the [Federal University of Pernambuco (UFPE)](https://www.ufpe.br/), a course I took in the second half of 2022 and first half of 2023.
 
 The activities that earned points in the course include the lists in this repository and a final project. Check the project in this other repository: https://github.com/luiz-linkezio/projeto-p1-equipe7
 
@@ -49,7 +49,7 @@ Dikastis website: https://dikastis.com.br
 
 Official Python website: https://www.python.org
 
-CIN website: https://portal.cin.ufpe.br/
+CIn website: https://portal.cin.ufpe.br/
 
 Website of the Information Systems (SI) undergraduate program: https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/
 
