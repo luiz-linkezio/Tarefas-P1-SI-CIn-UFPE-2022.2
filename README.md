@@ -39,10 +39,6 @@ As tarefas são no seguinte formato: Existe um problema no enunciado, o aluno te
 - Algumas tarefas foram mal feitas e/ou feitas incorretamente pelos autores originais, por isso, esse é um dos motivos de alguns enunciados estarem diferentes do originais(ainda podendo conter erros/ambiguidades). Além disso, esses erros fizeram com que alguns códigos meus tivessem coisas sem sentido e/ou incorretas apenas para ser aceito na plataforma como resposta correta (as tarefas com esses problemas terão avisos no enunciado e/ou no código).
 - Respondi todas as tarefas corretamente no prazo.
 
-## Minha Nota na Cadeira:
-### Consegui nota máxima e fui aprovado na cadeira (a nota valia de 0 a 10).
-<a href="https://ibb.co/MkHXxjf"><img src="https://i.ibb.co/tp6dTNz/image.png" alt="Nota na Cadeira" border="0"></a>
-
 ## Links:
 
 Site do Dikastis: https://dikastis.com.br
