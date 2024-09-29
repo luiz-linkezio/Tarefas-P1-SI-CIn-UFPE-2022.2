@@ -39,10 +39,6 @@ The tasks are in the following format: There is a problem in the statement, and 
 - Some tasks were poorly executed and/or executed incorrectly by the original authors, which is one of the reasons why some statements are different from the originals (and may still contain errors/ambiguities). Additionally, these errors caused some of my codes to have nonsensical and/or incorrect elements just to be accepted on the platform as the correct answer (tasks with these issues will have warnings in the statement and/or in the code).
 - I answered all the tasks correctly within the deadline.
 
-## My Grade in the Course:
-### I achieved the maximum grade and passed the course (the grade ranged from 0 to 10).
-<a href="https://ibb.co/MkHXxjf"><img src="https://i.ibb.co/tp6dTNz/image.png" alt="Course Grade" border="0"></a>
-
 ## Links:
 
 Dikastis website: https://dikastis.com.br
